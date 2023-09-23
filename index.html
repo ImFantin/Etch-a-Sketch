@@ -3,9 +3,32 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Etch-a-Sketch</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
 </head>
 <body>
-    
+    <div class="header">
+        <h1>Etch-a-sketch</h1>
+    </div>
+
+    <div class="menu">
+        <input id="colorPicker" type="color" value="#333333">
+        <button id="">PlaceHolder</button>
+        <button id="">PlaceHolder</button>
+        <button id="reset">PlaceHolder</button>
+        <p id="sizeValue">16 x 16</p>
+        <input id="sizeSlider" type="range" value="16" min="1" max="64" />
+    </div>
+
+    <div class="main">
+        <div id="gridContainer"></div>
+    </div>  
+
+    <div class="footer">
+        <footer>
+            <span id="updateYear">Copyright &copy 2023 Douglas Fantin</span>
+        </footer>
+    </div>
 </body>
 </html>
