@@ -62,6 +62,10 @@ div:not(#gridContainer) {
     align-items: center;
 }
 
+input, button {
+    width: 10em;
+}
+
 .footer {
     grid-area: footer;
     display: flex;
