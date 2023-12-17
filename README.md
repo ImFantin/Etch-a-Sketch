@@ -17,7 +17,7 @@ This project is an implementation of an Etch-a-Sketch web application using HTML
 
 ## Live Page
 
-[Live Page](https://github.com/ImFantin/Etch-a-Sketch)
+[Live Page](https://imfantin.github.io/Etch-a-Sketch/)
 
 
 ## Assignment
