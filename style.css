@@ -58,7 +58,7 @@ div:not(#gridContainer) {
     grid-area: main;
     padding: 1em;
     display: flex;
-    justify-content: flex-start;
+    justify-content: center;
     align-items: center;
 }
 
@@ -74,6 +74,3 @@ input, button {
     padding: 1em;
     font-size: 1em;
 }
-
-
-
