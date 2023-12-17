@@ -17,9 +17,9 @@ This project is an implementation of an Etch-a-Sketch web application using HTML
 
 ## Live Page
 
-[Live Page](https://github.com/ImFantin/Etch-a-Sketch){:target="_blank"}
+[Live Page](https://github.com/ImFantin/Etch-a-Sketch)
 
 
 ## Assignment
 
-[Assigment](https://www.theodinproject.com/lessons/foundations-etch-a-sketch){:target="_blank"}
+[Assigment](https://www.theodinproject.com/lessons/foundations-etch-a-sketch)
